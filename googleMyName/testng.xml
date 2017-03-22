@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="GooglemyNameSuit" verbose="1">
+   <test name="TestCase">
+       <classes>
+           <class name="com.appdirect.aditya.googleMyName.GoogleMyNameTest">
+           </class>
+       </classes>
+   </test>
+</suite>

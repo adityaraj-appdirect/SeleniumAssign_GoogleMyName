@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5208" started-at="2017-03-22T14:51:55Z" finished-at="2017-03-22T14:52:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5208" started-at="2017-03-22T14:51:55Z" finished-at="2017-03-22T14:52:00Z">
+      <class name="com.appdirect.aditya.googleMyName.GoogleMyNameTest">
+        <test-method status="PASS" signature="beforeTestSetup()[pri:0, instance:com.appdirect.aditya.googleMyName.GoogleMyNameTest@685cb137]" name="beforeTestSetup" is-config="true" duration-ms="1523" started-at="2017-03-22T20:21:55Z" finished-at="2017-03-22T20:21:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestSetup -->
+        <test-method status="PASS" signature="testGoogleMyName()[pri:0, instance:com.appdirect.aditya.googleMyName.GoogleMyNameTest@685cb137]" name="testGoogleMyName" duration-ms="3672" started-at="2017-03-22T20:21:56Z" finished-at="2017-03-22T20:22:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGoogleMyName -->
+      </class> <!-- com.appdirect.aditya.googleMyName.GoogleMyNameTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
